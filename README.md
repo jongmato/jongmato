@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=WonJonghyun%20&fontSize=60&textBg=true&descSize=30&fontColor=d6ace6)
----
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,2,2,3&height=300&section=header&text=WonJonghyun%20&fontSize=60&textBg=true&descSize=30&fontColor=d6ace6)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjongmato&count_bg=%2315E7C4&title_bg=%236F76DF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 안녕하세요 계속 성장하는 프론트엔드 개발자 원종현입니다.
