@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,100:fcb69f&height=180&section=header&text=Hi,%20I'm%20Jonghyun&fontSize=36&fontColor=2d3436&fontAlignY=35&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,100:fcb69f&height=180&section=header&text=Hi,%20I'm%20Jonghyun&fontSize=36&fontColor=2d3436&fontAlignY=35&animation=fadeIn" alt="header" />
 
 <div align="center">
 
@@ -36,7 +36,11 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=jongmato&theme=default&hide_border=true&ring=e17055&fire=e17055&currStreakLabel=e17055" />
+  <img src="https://streak-stats.demolab.com/?user=jongmato&theme=default&hide_border=true&ring=e17055&fire=e17055&currStreakLabel=e17055" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jongmato&theme=minimal&hide_border=true&area=true&area_color=fcb69f&line=e17055&point=2d3436" alt="Activity Graph" />
 </div>
 
 ---
@@ -58,4 +62,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,100:fcb69f&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,100:fcb69f&height=100&section=footer" alt="footer" />
