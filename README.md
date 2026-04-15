@@ -36,8 +36,7 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jongmato&show_icons=true&theme=vue&hide_border=true&rank_icon=github" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=jongmato&theme=vue&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=jongmato&theme=default&hide_border=true&ring=e17055&fire=e17055&currStreakLabel=e17055" />
 </div>
 
 ---
