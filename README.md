@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2d3436,100:636e72&height=180&section=header&text=Hi%2C%20I'm%20Jonghyun%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,100:fcb69f&height=180&section=header&text=Hi%2C%20I'm%20Jonghyun%20%F0%9F%91%8B&fontSize=36&fontColor=2d3436&fontAlignY=35&animation=fadeIn" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,100:fcb69f&height=180&section=header&text=Hi%2C%20I'm%20Jonghyun%20%F0%9F%91%8B&fontSize=36&fontColor=2d3436&fontAlignY=35&animation=fadeIn" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,100:fcb69f&height=180&section=header&text=Hi,%20I'm%20Jonghyun&fontSize=36&fontColor=2d3436&fontAlignY=35&animation=fadeIn" />
 
 <div align="center">
 
@@ -40,8 +36,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jongmato&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=e17055&icon_color=fdcb6e&text_color=2d3436&rank_icon=github" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=jongmato&theme=default&hide_border=true&background=00000000&ring=e17055&fire=e17055&currStreakLabel=2d3436&sideLabels=2d3436&currStreakNum=2d3436&sideNums=2d3436&dates=636e72" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jongmato&show_icons=true&theme=vue&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=jongmato&theme=vue&hide_border=true" />
 </div>
 
 ---
@@ -63,8 +59,4 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2d3436,100:636e72&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,100:fcb69f&height=100&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,100:fcb69f&height=100&section=footer" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,100:fcb69f&height=100&section=footer" />
