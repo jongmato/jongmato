@@ -6,7 +6,7 @@
 
 `Next.js` · `React Native` · `FastAPI` · `Supabase`
 
-[lifecarelog.co.kr](https://lifecarelog.co.kr) · [X (Twitter)](https://x.com/jongmato) · [Threads](https://www.threads.net/@jongmato)
+[lifecarelog.co.kr](https://lifecarelog.co.kr) · [X](https://x.com/lifecarelog) · [Threads](https://www.threads.com/@lifecarelog_official)
 
 </div>
 
